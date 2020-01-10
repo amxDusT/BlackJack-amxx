@@ -2,7 +2,7 @@
 #include < amxmisc >
 
 // choose for what mod. 
-// edit line 25-26-27 for custom mod.
+// edit line 28-29-30 for custom mod.
 
 #define JAILBREAK       // jailbreak by natsheh
 //#define CSTRIKE
